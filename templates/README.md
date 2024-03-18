@@ -1,0 +1,1 @@
+This OCR application takes handwritten image(jpeg,png,jpg) input from the user and extracts the words and displays using flak app

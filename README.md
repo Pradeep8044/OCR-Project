@@ -1,1 +1,0 @@
-OCR Project for recognozing text from hand written paper
